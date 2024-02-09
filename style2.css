@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+
+
+.art{
+    margin: auto;
+}
+
+td{
+    background-color: black;
+    width: 150px;
+    height: 300px;
+    margin : auto;
+    align-content: center;
+    
+}
